@@ -88,10 +88,10 @@
       "cardStyle": "card",
       "captionDetail": "full",
       "captionOverlay": "surface",
-      "featureFirst": false,
-      "adaptiveSpans": false,
-      "click": "lightbox",
-      "filters": false
+      "featureFirst": true,
+      "adaptiveSpans": true,
+      "click": "page",
+      "filters": true
     },
     "lightbox": {
       "transition": "fade",
