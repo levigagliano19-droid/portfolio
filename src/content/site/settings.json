@@ -7,7 +7,7 @@
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": true,
+  "rightClickProtect": false,
   "watermark": true,
   "watermarkText": "Levi Gagliano",
   "protectFromAI": true,
