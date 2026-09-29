@@ -11,6 +11,7 @@ dimensions: 50 x 70 cm
 status: available
 price: "1400"
 alt: A mass of red rises from the surface, rough, uneven, and almost alive.
+collection: energy
 order: 0
 featured: true
 ---
